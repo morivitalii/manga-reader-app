@@ -1,0 +1,10 @@
+.SignUpForm {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.SignUpForm input, .SignUpForm button {
+    display: block;
+    margin: 0 0 10px;
+    width: 100%;
+}

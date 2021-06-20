@@ -1,0 +1,10 @@
+.SignInForm {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.SignInForm input, .SignInForm button {
+    display: block;
+    margin: 0 0 10px;
+    width: 100%;
+}
